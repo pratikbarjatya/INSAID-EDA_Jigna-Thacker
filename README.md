@@ -1,6 +1,8 @@
 # EDA_Jigna-Thacker
 Breast Cancer Survival - EDA project (Term1&amp;2)- INSAID GCD program
 
+![image.png](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Images/Breast%20Cancer.jpg)
+
 ## Project Material:
 - [Database](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Breast_cancer_survival.csv)
 
