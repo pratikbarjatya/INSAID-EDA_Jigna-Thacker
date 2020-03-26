@@ -1,5 +1,11 @@
 # EDA_Jigna-Thacker
-Breast Cancer Survival - EDA project (Term1&amp;2)- INSAID GCD program
+## Breast Cancer Survival - EDA project (Term1&amp;2)- INSAID GCD program
+
+As a part of GCD- Term1&2 EDA Project, INSAID
+Taken Breast Cancer Survival database to predict patient survival after 5 years of operation basis given attributes : 
+- Age of patient, 
+- year of operation 
+- positive axillary node
 
 ![image.png](https://github.com/jmps967/EDA_Jigna-Thacker/blob/master/Images/Breast%20Cancer.jpg)
 
